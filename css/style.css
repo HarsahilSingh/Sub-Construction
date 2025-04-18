@@ -68,6 +68,9 @@
 
 
 /*** Navbar ***/
+
+.logo{width: 70%;
+display: flex;}
 .navbar.sticky-top {
     top: -100px;
     transition: .5s;
